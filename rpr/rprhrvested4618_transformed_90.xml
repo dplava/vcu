@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Chain-gang at Richmond</dcterms:title>
+<dcterms:description>Sketched by W. S. Sheppard.</dcterms:description>
+<dcterms:creator>Sheppard, W. S.</dcterms:creator>
+<dcterms:title>Harper's Weekly</dcterms:title>
+<dcterms:publisher>Harper &amp; Brothers, Publishers</dcterms:publisher>
+<dcterms:issued>1868-12-05</dcterms:issued>
+<dcterms:description>780</dcterms:description>
+<dcterms:extent>15 x 23 cm</dcterms:extent>
+<dcterms:subject>Chain gangs -- Virginia -- Richmond; Convict labor -- Virginia -- Richmond</dcterms:subject>
+<dcterms:subject>Richmond (Va.)</dcterms:subject>
+<dcterms:temporal>Nineteenth century</dcterms:temporal>
+<dcterms:spatial>Richmond (Va.)</dcterms:spatial>
+<dcterms:subject>F234.R52</dcterms:subject>
+<dcterms:medium>newspaper</dcterms:medium>
+<dcterms:medium>artwork</dcterms:medium>
+<dcterms:type>Still Image</dcterms:type>
+<dcterms:type>Text</dcterms:type>
+<dcterms:medium>image/jp2</dcterms:medium>
+<dcterms:isPartOf>Richmond Nineteenth-Century Print Collection</dcterms:isPartOf>
+<dcterms:description>Scanned with Epson Expression 10000 XL, using Photoshop CS4, at 8-bit grayscale, 600 ppi.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+<dcterms:contributor>James Branch Cabell Library. Special Collections and Archives</dcterms:contributor>
+<dcterms:publisher>VCU Libraries</dcterms:publisher>
+<dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
+<dcterms:source>Original periodical illustration:  Chain-gang at Richmond, Harper's Weekly, Dec. 5, 1868, p. 780, Richmond, Virginia Maps and Prints Collection, M 190, Special Collections and Archives, James Branch Cabell Library, Virginia Commonwealth University.</dcterms:source>
+<dcterms:identifier>rpr_harpers_weekly_18681205.tif</dcterms:identifier>
+<edm:isShownAt>https://digital.library.vcu.edu/cdm/ref/collection/rpr/id/90</edm:isShownAt>
+<edm:preview>https://digital.library.vcu.edu/utils/getthumbnail/collection/rpr/id/90</edm:preview>
+</mdRecord>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Virginia -- The fatal explosion at the Midlothian Coal Mine, February 3D -- Carrying from the shaft-cage a rescue party overcome by gas</dcterms:title>
+<dcterms:description>From a sketch by F. C. Burroughs.</dcterms:description>
+<dcterms:creator>Burroughs, F.C.</dcterms:creator>
+<dcterms:title>Harper's Weekly</dcterms:title>
+<dcterms:publisher>Harper &amp; Brothers, Publishers</dcterms:publisher>
+<dcterms:issued>1882-02-18</dcterms:issued>
+<dcterms:extent>18 x 24 cm</dcterms:extent>
+<dcterms:subject>Coal mines and mining -- Virginia -- Midlothian; Coal mine accidents -- Virginia -- Midlothian; Mine explosions -- Virginia -- Midlothian; Mine rescue work -- -- Virginia -- Midlothian</dcterms:subject>
+<dcterms:subject>Midlothian (Va.)</dcterms:subject>
+<dcterms:temporal>Nineteenth century</dcterms:temporal>
+<dcterms:spatial>Midlothian (Va.)</dcterms:spatial>
+<dcterms:subject>F234.R52</dcterms:subject>
+<dcterms:medium>newspaper</dcterms:medium>
+<dcterms:medium>artwork</dcterms:medium>
+<dcterms:type>Still Image</dcterms:type>
+<dcterms:type>Text</dcterms:type>
+<dcterms:medium>image/jp2</dcterms:medium>
+<dcterms:isPartOf>Richmond Nineteenth-Century Print Collection</dcterms:isPartOf>
+<dcterms:description>Scanned with Epson Expression 10000 XL, using Photoshop CS4, at 8-bit grayscale, 600 ppi.</dcterms:description>
+<dcterms:language>eng</dcterms:language>
+<dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+<dcterms:contributor>James Branch Cabell Library. Special Collections and Archives</dcterms:contributor>
+<dcterms:publisher>VCU Libraries</dcterms:publisher>
+<dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
+<dcterms:source>Original periodical illustration:  Virginia -- The fatal explosion at the Midlothian Coal Mine, February 3D -- Carrying From the shaft-cage a rescue party overcome by gas, Harper's Weekly, Feb. 18, 1882, Richmond, Virginia Maps and Prints Collection, M 190, Special Collections and Archives, James Branch Cabell Library, Virginia Commonwealth University.</dcterms:source>
+<dcterms:identifier>rpr_harpers_weekly_18820218_01.tif</dcterms:identifier>
+<edm:isShownAt>https://digital.library.vcu.edu/cdm/ref/collection/rpr/id/147</edm:isShownAt>
+<edm:preview>https://digital.library.vcu.edu/utils/getthumbnail/collection/rpr/id/147</edm:preview>
+</mdRecord>
