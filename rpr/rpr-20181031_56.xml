@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>State Convention at Richmond, Va., in session</dcterms:title>
+<dcterms:title>The State Convention at Richmond, Va., in session</dcterms:title>
+<dcterms:title>Frank Leslie's Illustrated Newspaper</dcterms:title>
+<dcterms:publisher>Frank Leslie</dcterms:publisher>
+<dcterms:created>1868-02-15</dcterms:created>
+<dcterms:description>p. 345</dcterms:description>
+<dcterms:extent>24 x 36 cm</dcterms:extent>
+<dcterms:subject>Political conventions -- Virginia -- Richmond</dcterms:subject>
+<dcterms:subject>Virginia -- Politics and government -- 1865-1950</dcterms:subject>
+<dcterms:temporal>Nineteenth century</dcterms:temporal>
+<dcterms:spatial>Richmond (Va.)</dcterms:spatial>
+<dcterms:medium>newspaper</dcterms:medium>
+<dcterms:medium>artwork</dcterms:medium>
+<dcterms:type>Still Image</dcterms:type>
+<dcterms:type>Text</dcterms:type>
+<dcterms:medium>image/jp2</dcterms:medium>
+<dcterms:isPartOf>Richmond Nineteenth-Century Print Collection</dcterms:isPartOf>
+<dcterms:language>eng</dcterms:language>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:contributor>James Branch Cabell Library. Special Collections and Archives</dcterms:contributor>
+<dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
+<dcterms:source>Original periodical illustration:  The State Convention at Richmond, Va., in session, Frank Leslie's Illustrated Newspaper, Feb. 15, 1868, p. 345, Richmond, Virginia Maps and Prints Collection, M 190, Special Collections and Archives, James Branch Cabell Library, Virginia Commonwealth University.</dcterms:source>
+<dcterms:identifier>rpr_frank_leslies_illustrated_newspaper_18680215.tif</dcterms:identifier>
+<edm:isShownAt>https://digital.library.vcu.edu/cdm/ref/collection/rpr/id/56</edm:isShownAt>
+<edm:preview>https://digital.library.vcu.edu/utils/getthumbnail/collection/rpr/id/56</edm:preview>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Design for a pair of semi-detached residences, M.J. Dimmock, architect, Richmond, Virginia</dcterms:title>
+<dcterms:title>American Architect and Building News</dcterms:title>
+<dcterms:publisher>James R. Osgood &amp; Co.</dcterms:publisher>
+<dcterms:created>1884-06-07</dcterms:created>
+<dcterms:description>p. 441</dcterms:description>
+<dcterms:extent>10 X 18 cm</dcterms:extent>
+<dcterms:subject>Dimmock, Marion J. (1842-1908)</dcterms:subject>
+<dcterms:subject>Architecture, Domestic -- Virginia -- Richmond -- Designs and plans</dcterms:subject>
+<dcterms:subject>Richmond (Va.) -- Buildings, structures, etc.</dcterms:subject>
+<dcterms:temporal>Nineteenth century</dcterms:temporal>
+<dcterms:spatial>Richmond (Va.)</dcterms:spatial>
+<dcterms:medium>newspaper</dcterms:medium>
+<dcterms:medium>artwork</dcterms:medium>
+<dcterms:type>Still Image</dcterms:type>
+<dcterms:type>Text</dcterms:type>
+<dcterms:medium>image/jp2</dcterms:medium>
+<dcterms:isPartOf>Richmond Nineteenth-Century Print Collection</dcterms:isPartOf>
+<dcterms:language>eng</dcterms:language>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:contributor>James Branch Cabell Library. Special Collections and Archives</dcterms:contributor>
+<dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
+<dcterms:source>Original periodical illustration:  Design for a pair of semi-detached residences, M.J. Dimmock, architect, Richmond, Virginia, American Architect and Building News, June 7, 1884, p. 441, Richmond, Virginia Maps and Prints Collection, M 190, Special Collections and Archives, James Branch Cabell Library, Virginia Commonwealth University.</dcterms:source>
+<dcterms:identifier>rpr_American_Architect_and_Building_News_18840607.tif</dcterms:identifier>
+<edm:isShownAt>https://digital.library.vcu.edu/cdm/ref/collection/rpr/id/92</edm:isShownAt>
+<edm:preview>https://digital.library.vcu.edu/utils/getthumbnail/collection/rpr/id/92</edm:preview>
+</mdRecord>
