@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Birds eye view of Richmond and the vicinity</dcterms:title>
+<dcterms:title>Harper's Weekly</dcterms:title>
+<dcterms:publisher>Harper &amp; Brothers, Publishers</dcterms:publisher>
+<dcterms:created>1862-07-12</dcterms:created>
+<dcterms:description>p. 437</dcterms:description>
+<dcterms:extent>24 x 35 cm</dcterms:extent>
+<dcterms:subject>Richmond (Va.) -- Aerial views</dcterms:subject>
+<dcterms:temporal>Nineteenth century</dcterms:temporal>
+<dcterms:spatial>Richmond (Va.)</dcterms:spatial>
+<dcterms:medium>Newspaper</dcterms:medium>
+<dcterms:medium>Artwork</dcterms:medium>
+<dcterms:type>still image</dcterms:type>
+<dcterms:type>text</dcterms:type>
+<dcterms:isPartOf>Richmond Nineteenth-Century Print Collection</dcterms:isPartOf>
+<dcterms:language>eng</dcterms:language>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:contributor>James Branch Cabell Library. Special Collections and Archives</dcterms:contributor>
+<dcterms:source>Original periodical illustration:  Birds eye view of Richmond and the vicinity, Harper's Weekly, July 12. 1862, p. 437, Richmond, Virginia Maps and Prints Collection, M 190, Special Collections and Archives, James Branch Cabell Library, Virginia Commonwealth University.</dcterms:source>
+<dcterms:identifier>vcu%3A24690</dcterms:identifier>
+<dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
+<edm:isShownAt>https://digital.library.vcu.edu/islandora/object/vcu%3A24690</edm:isShownAt>
+<edm:preview>https://digital.library.vcu.edu/islandora/object/vcu%3A24690/datastream/TN/view</edm:preview>
+</mdRecord>
