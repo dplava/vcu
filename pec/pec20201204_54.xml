@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-<dcterms:title>In genuinely democratic service, the servant is well served</dcterms:title><dcterms:created>2001</dcterms:created>
+<dcterms:title>In genuinely democratic service, the servant is well served</dcterms:title>
+<dcterms:created>2001</dcterms:created>
 <dcterms:extent>10 p. : digital, PDF file</dcterms:extent>
 <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
 <dcterms:subject>Volunteer workers in recreation -- Virginia -- Prince Edward County</dcterms:subject>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-<dcterms:title>Prince Edward County, Virginia: a study in infamy</dcterms:title><dcterms:title>Picott, J. Rupert and Edward Harden Peeples, Jr. "Prince Edward County, Virginia." Phi Delta Kappan 45:8 (May 1964): 393-397.</dcterms:title><dcterms:publisher>Phi Delta Kappa</dcterms:publisher>
+<dcterms:title>Prince Edward County, Virginia: a study in infamy</dcterms:title>
+<dcterms:title>Picott, J. Rupert and Edward Harden Peeples, Jr. "Prince Edward County, Virginia." Phi Delta Kappan 45:8 (May 1964): 393-397.</dcterms:title>
+<dcterms:publisher>Phi Delta Kappa</dcterms:publisher>
 <dcterms:created>1964-05</dcterms:created>
 <dcterms:extent>5 p.; 25-27 cm.</dcterms:extent>
 <dcterms:subject>Prince Edward County (Va.) -- Politics and government</dcterms:subject>

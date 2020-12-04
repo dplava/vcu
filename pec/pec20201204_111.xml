@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
-<dcterms:title>Robert Russa Moton Museum, Farmville, Va., 50th anniversary of the student strike, Juan Williams, 2001</dcterms:title><dcterms:created>2001-04-23</dcterms:created>
+<dcterms:title>Robert Russa Moton Museum, Farmville, Va., 50th anniversary of the student strike, Juan Williams, 2001</dcterms:title>
+<dcterms:created>2001-04-23</dcterms:created>
 <dcterms:extent>6 x 9 cm.</dcterms:extent>
 <dcterms:subject>Commemorations (events)</dcterms:subject>
 <dcterms:subject>Farmville (Va.)</dcterms:subject>
