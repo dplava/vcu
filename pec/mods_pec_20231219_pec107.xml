@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/"xsi:schemaLocation="http://dplava.lib.virginia.eduhttp://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Gravesite of L. Francis Griffin, Farmville, Va., 1991</dcterms:title>
+<dcterms:created>1991</dcterms:created>
+<dcterms:extent>6 x 9 cm.</dcterms:extent>
+<dcterms:subject>Tombstones</dcterms:subject>
+<dcterms:subject>Farmville (Va.)</dcterms:subject>
+<dcterms:subject>Sepulchral monuments -- Virginia -- Farmville -- Pictorial works</dcterms:subject>
+<dcterms:subject>Independent Order of Odd Fellows Cemetery (Farmville, Va.)</dcterms:subject>
+<dcterms:subject>Griffin, L. Francis -- Tomb -- Pictorial works</dcterms:subject>
+<dcterms:medium>Photograph</dcterms:medium>
+<dcterms:type>still image</dcterms:type>
+<dcterms:isPartOf>Edward H. Peeples Prince Edward County (Va.) Public Schools</dcterms:isPartOf>
+<dcterms:language>eng</dcterms:language>
+<dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+<dcterms:contributor>James Branch Cabell Library. Special Collections and Archives</dcterms:contributor>
+<dcterms:creator>Peeples, Edward H. (Edward Harden), 1935-2019</dcterms:creator>
+<dcterms:identifier>pec107</dcterms:identifier>
+<dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
+<edm:isShownAt>https://scholarscompass.vcu.edu/pec_photos/151</edm:isShownAt>
+<edm:preview>https://scholarscompass.vcu.edu/pec_photos/1150/thumbnail.jpg</edm:preview>
+</mdRecord>
