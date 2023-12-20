@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:edm="http://www.europeana.eu/schemas/edm/"
+ xsi:schemaLocation="http://dplava.lib.virginia.edu http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>James Bowles interview 1 (2013-10-04)</dcterms:title>
+<dcterms:created>2013-10-04</dcterms:created>
+<dcterms:extent>178 MB (1 hour, 27 minutes, 16 seconds)</dcterms:extent>
+<dcterms:subject>Goochland County (Va.) -- Race relations</dcterms:subject>
+<dcterms:subject>African American neighborhoods -- Virginia -- Goochland County</dcterms:subject>
+<dcterms:subject>African American schools -- Virginia -- Goochland County</dcterms:subject>
+<dcterms:subject>School integration -- Virginia -- Goochland County</dcterms:subject>
+<dcterms:subject>Community activists -- Virginia -- Goochland County</dcterms:subject>
+<dcterms:subject>African Americans -- Education -- Virginia -- Goochland County</dcterms:subject>
+<dcterms:subject>African American schools -- Curricula -- Virginia -- Goochland County</dcterms:subject>
+<dcterms:subject>African American teachers -- Virginia -- Goochland County</dcterms:subject>
+<dcterms:subject>African American physicians -- Virginia -- Goochland County -- Interviews</dcterms:subject>
+<dcterms:subject>National Association for the Advancement of Colored People; Julius Rosenwald Fund -- Buildings</dcterms:subject>
+<dcterms:subject>Bowles, James Harold -- Interviews</dcterms:subject>
+<dcterms:subject>Bowles, James Harold -- Childhood and youth -- Anecdotes</dcterms:subject>
+<dcterms:temporal>Twentieth century</dcterms:temporal>
+<dcterms:medium>Oral histories</dcterms:medium>
+<dcterms:medium>Oral history</dcterms:medium>
+<dcterms:medium>Moving image</dcterms:medium>
+<dcterms:medium>Text</dcterms:medium>
+<dcterms:type>text</dcterms:type>
+<dcterms:type>moving image</dcterms:type>
+<dcterms:isPartOf>Goochland County Rosenwald Schools Oral History Project, 2013-2015</dcterms:isPartOf>
+<dcterms:language>eng</dcterms:language>
+<dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
+<dcterms:contributor>Daugherity, Brian J., 1972-</dcterms:contributor>
+<dcterms:contributor>Silvent, Christopher</dcterms:contributor>
+<dcterms:contributor>James Branch Cabell Library, Special Collections and Archives</dcterms:contributor>
+<dcterms:creator>Bowles, James Harold</dcterms:creator>
+<dcterms:creator>Miller, Alyce P.</dcterms:creator>
+<dcterms:source>Original oral history: James Bowles interview 1 (2013-10-04), Goochland County Rosenwald Schools Oral History Project, 2013-2015, M 501, Special Collections and Archives, James Branch Cabell Library, Virginia Commonwealth University.</dcterms:source>
+<dcterms:identifier>goo_bowlesjames_interview_part1_redacted</dcterms:identifier>
+<dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
+<edm:isShownAt>https://scholarscompass.vcu.edu/goo_items/3</edm:isShownAt>
+<edm:preview>https://scholarscompass.vcu.edu/goo_items/1002/thumbnail.jpg</edm:preview>
+</mdRecord>

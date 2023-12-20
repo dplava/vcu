@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:edm="http://www.europeana.eu/schemas/edm/"
+ xsi:schemaLocation="http://dplava.lib.virginia.edu http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Route of Lee's retreat sign looking south towards Farmville, Va., 1988</dcterms:title>
+<dcterms:created>1988</dcterms:created>
+<dcterms:extent>6 x 9 cm.</dcterms:extent>
+<dcterms:subject>Markers (monuments)</dcterms:subject>
+<dcterms:subject>Farmville (Va.)</dcterms:subject>
+<dcterms:subject>Cumberland County (Va.)</dcterms:subject>
+<dcterms:subject>Historical markers -- Virginia -- Cumberland County -- History -- Pictorial works</dcterms:subject>
+<dcterms:subject>Historic sites -- Virginia -- Cumberland County -- History -- Pictorial works</dcterms:subject>
+<dcterms:subject>Virginia -- History -- Civil War, 1861-1865 -- Pictorial works</dcterms:subject>
+<dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:subject>
+<dcterms:medium>Photograph</dcterms:medium>
+<dcterms:type>still image</dcterms:type>
+<dcterms:isPartOf>Edward H. Peeples Prince Edward County (Va.) Public Schools</dcterms:isPartOf>
+<dcterms:language>eng</dcterms:language>
+<dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+<dcterms:contributor>James Branch Cabell Library. Special Collections and Archives</dcterms:contributor>
+<dcterms:creator>Peeples, Edward H. (Edward Harden), 1935-2019</dcterms:creator>
+<dcterms:identifier>pec095</dcterms:identifier>
+<dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
+<edm:isShownAt>https://scholarscompass.vcu.edu/pec_photos/131</edm:isShownAt>
+<edm:preview>https://scholarscompass.vcu.edu/pec_photos/1130/thumbnail.jpg</edm:preview>
+</mdRecord>
