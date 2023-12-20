@@ -6,7 +6,7 @@
  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
  xmlns:edm="http://www.europeana.eu/schemas/edm/"
  xsi:schemaLocation="http://dplava.lib.virginia.edu http://dplava.lib.virginia.edu/dplava.xsd">
-<dcterms:title>Student protesters outside College Shoppe, Farmville, Va., July 1963, #004</dcterms:title>
+<dcterms:title>Test</dcterms:title>
 <dcterms:created>1963-07</dcterms:created>
 <dcterms:subject>Farmville (Va.) -- Race relations</dcterms:subject>
 <dcterms:subject>Prince Edward County (Va.) -- Race relations</dcterms:subject>
@@ -28,8 +28,8 @@
 <dcterms:language>eng</dcterms:language>
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:contributor>James Branch Cabell Library. Special Collections and Archives</dcterms:contributor>
-<dcterms:identifier>far448a</dcterms:identifier>
+<dcterms:identifier>test</dcterms:identifier>
 <dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
-<edm:isShownAt>https://scholarscompass.vcu.edu/far/448</edm:isShownAt>
-<edm:preview>https://scholarscompass.vcu.edu/far/1447/thumbnail.jpg</edm:preview>
+<edm:isShownAt>https://library.vcu.edu</edm:isShownAt>
+<edm:preview>https://library.vcu.edu</edm:preview>
 </mdRecord>
