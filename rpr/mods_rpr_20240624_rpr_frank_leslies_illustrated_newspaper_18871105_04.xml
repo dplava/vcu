@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:edm="http://www.europeana.eu/schemas/edm/"
+ xsi:schemaLocation="http://dplava.lib.virginia.edu http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Virginia -- Southern honors to the memory of the great Confederate chieftain --Laying of the corner-stone of the Robert E. Lee Monument at Richmond, October 27th.; Procession on Main Street; Laying the corner stone</dcterms:title>
+<dcterms:title>Procession on Main Street; Laying the corner stone</dcterms:title>
+<dcterms:title>Frank Leslie's Illustrated Newspaper</dcterms:title>
+<dcterms:publisher>Frank Leslie</dcterms:publisher>
+<dcterms:created>1887-11-05</dcterms:created>
+<dcterms:description>p. 184</dcterms:description>
+<dcterms:extent>23 x 22 cm</dcterms:extent>
+<dcterms:subject>Richmond (Va.) -- Buildings, structures, etc.</dcterms:subject>
+<dcterms:subject>Processions -- Virginia -- Richmond</dcterms:subject>
+<dcterms:subject>Monuments -- Virginia -- Richmond</dcterms:subject>
+<dcterms:subject>Statues -- Virginia -- Richmond</dcterms:subject>
+<dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870 -- Statues</dcterms:subject>
+<dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870 -- Monuments</dcterms:subject>
+<dcterms:temporal>Nineteenth century</dcterms:temporal>
+<dcterms:spatial>Richmond (Va.)</dcterms:spatial>
+<dcterms:medium>Newspaper</dcterms:medium>
+<dcterms:medium>Artwork</dcterms:medium>
+<dcterms:type>still image</dcterms:type>
+<dcterms:type>text</dcterms:type>
+<dcterms:isPartOf>Richmond Nineteenth-Century Print Collection</dcterms:isPartOf>
+<dcterms:language>eng</dcterms:language>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:contributor>James Branch Cabell Library. Special Collections and Archives</dcterms:contributor>
+<dcterms:source>Original periodical illustration:  Virginia -- Southern honors to the memory of the great Confederate chieftain --Laying of the corner-stone of the Robert E. Lee Monument at Richmond, October 27th.; Procession on Main Street; Laying the corner stone, Frank Leslie's Illustrated Newspaper, Nov. 5, 1887, p. 184, Richmond, Virginia Maps and Prints Collection, M 190, Special Collections and Archives, James Branch Cabell Library, Virginia Commonwealth University.</dcterms:source>
+<dcterms:identifier>rpr_frank_leslies_illustrated_newspaper_18871105_04</dcterms:identifier>
+<dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
+<edm:isShownAt>https://scholarscompass.vcu.edu/rpr/22</edm:isShownAt>
+<edm:preview>https://scholarscompass.vcu.edu/rpr/1021/thumbnail.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:edm="http://www.europeana.eu/schemas/edm/"
+ xsi:schemaLocation="http://dplava.lib.virginia.edu http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:title>Representation of the equestrian statue of Washington, at Richmond, Virginia</dcterms:title>
+<dcterms:title>Gleason's Pictorial Drawing-Room Companion</dcterms:title>
+<dcterms:publisher>F. Gleason</dcterms:publisher>
+<dcterms:created>1853-04-16</dcterms:created>
+<dcterms:description>p. 241</dcterms:description>
+<dcterms:extent>22 x 24 cm</dcterms:extent>
+<dcterms:subject>Richmond (Va.) -- Buildings, structures, etc.</dcterms:subject>
+<dcterms:subject>Monuments -- Virginia -- Richmond</dcterms:subject>
+<dcterms:subject>Equestrian statues -- Virginia -- Richmond</dcterms:subject>
+<dcterms:subject>Washington Monument (Richmond, Va.)</dcterms:subject>
+<dcterms:subject>Washington, George, 1732-1799 -- Statues -- Virginia -- Richmond</dcterms:subject>
+<dcterms:subject>Washington, George, 1732-1799 -- Monuments -- Virginia -- Richmond</dcterms:subject>
+<dcterms:temporal>Nineteenth century</dcterms:temporal>
+<dcterms:spatial>Richmond (Va.)</dcterms:spatial>
+<dcterms:medium>Newspaper</dcterms:medium>
+<dcterms:medium>Artwork</dcterms:medium>
+<dcterms:type>still image</dcterms:type>
+<dcterms:type>text</dcterms:type>
+<dcterms:isPartOf>Richmond Nineteenth-Century Print Collection</dcterms:isPartOf>
+<dcterms:language>eng</dcterms:language>
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:contributor>James Branch Cabell Library. Special Collections and Archives</dcterms:contributor>
+<dcterms:source>Original periodical illustration:  Representation of the equestrian statue of Washington, at Richmond, Virginia, Gleason's Pictorial Drawing-Room Companion, Apr. 16, 1853, p. 241, Richmond, Virginia Maps and Prints Collection, M 190, Special Collections and Archives, James Branch Cabell Library, Virginia Commonwealth University.</dcterms:source>
+<dcterms:identifier>rpr_gleasons_pictorial_drawing_room_companion_18530416</dcterms:identifier>
+<dcterms:provenance>Virginia Commonwealth University</dcterms:provenance>
+<edm:isShownAt>https://scholarscompass.vcu.edu/rpr/28</edm:isShownAt>
+<edm:preview>https://scholarscompass.vcu.edu/rpr/1027/thumbnail.jpg</edm:preview>
+</mdRecord>
